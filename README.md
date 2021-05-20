@@ -1,5 +1,5 @@
 # Scraping
-To create a class with the functions for reading file, scraping data and writing to csv(you can add any other function if needed).
+To create a class with the functions for reading file, scraping data and writing to csv.
 
 The data to be scrapped :-
 
